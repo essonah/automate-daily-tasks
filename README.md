@@ -1,5 +1,3 @@
-I'll help you craft an engaging GitHub description for your file organization script. Here's a draft:
-
 # File Organizer 🗂️✨
 
 Tired of a chaotic Downloads folder that looks like a digital tornado just swept through? Me too! 😫 Say goodbye to the endless scrolling and file-finding frustration with this Python script that magically organizes your mess into neat, tidy folders.
